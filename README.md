@@ -11,7 +11,7 @@ From the table above, we can conclude that:
 - Urban type has the most rides and drivers, with the least average fare.
 - Suburban is between rural and urban in total rides, drivers, and average fare.
 
-![fig2](Resources/PyBer_fare_summary.png)
+![fig2](analysis/PyBer_fare_summary.png)
 
 The line plot above takes data for dates from '2019-01-01' to '2019-04-29' by week, as a supplement of the conclusion we got above.
 
